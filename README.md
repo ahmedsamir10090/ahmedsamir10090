@@ -6,7 +6,7 @@
 
 I build production mobile apps that stay reliable under real-world pressure: weak networks, low-end devices, and high traffic. Clean architecture, offline-first data, real-time experiences, and APIs that don't fall over.
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-samir-92b24421b/) · [Email](mailto:ahmedsamir1090a@gmail.com) · [Nasaq Care](https://nasaqcare.com)
+[LinkedIn](https://www.linkedin.com/in/ahmed-samir-92b24421b/) · [Email](mailto:ahmedsamir1090a@gmail.com) · [Portfolio](https://ahmedsamir10090.github.io) · [Nasaq Care](https://nasaqcare.com)
 
 ---
 
@@ -84,4 +84,5 @@ Web and mobile app suite with complex state management, multilingual support, an
 
 - LinkedIn: [ahmed-samir-92b24421b](https://www.linkedin.com/in/ahmed-samir-92b24421b/)
 - Email: [ahmedsamir1090a@gmail.com](mailto:ahmedsamir1090a@gmail.com)
+- Portfolio: [ahmedsamir10090.github.io](https://ahmedsamir10090.github.io)
 - Product: [nasaqcare.com](https://nasaqcare.com)
