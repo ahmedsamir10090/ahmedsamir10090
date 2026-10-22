@@ -20,9 +20,9 @@ Clinic operations on one screen: appointments, a live reception-to-doctor queue,
 
 | Product | Role | What it is |
 | --- | --- | --- |
-| **Nasaq Care** | Founder & Lead Engineer | Multi-tenant clinic management SaaS — Flutter app + Laravel API |
+| **Nasaq Care** | Founder & Lead Engineer | Multi-tenant clinic management SaaS — [case study](https://github.com/ahmedsamir10090/nasaq-care-showcase) |
 | **Airgo-SD** | Senior Flutter Developer | [Multimodal travel booking platform](https://airgo-sd.net) (flights, buses, boats) |
-| **Slock Store** | Flutter Developer | E-commerce app with regional payment gateways |
+| **Slock Store** | Flutter Developer | [E-commerce app](https://slockstore.com) with regional payment gateways |
 
 ## Toolbox
 
