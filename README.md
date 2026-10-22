@@ -1,39 +1,86 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedsamir10090/nasaq-care-showcase/main/assets/logo.png" width="88" alt="Nasaq Care" />
+  <img src="https://raw.githubusercontent.com/ahmedsamir10090/ahmedsamir10090/main/assets/banner.png" alt="Ahmed Samir — Senior Mobile Application Engineer" width="100%" />
 </div>
 
-# Ahmed Samir
+### Senior Mobile Application Engineer — Flutter / Dart
 
-Flutter engineer and founder of **[Nasaq Care](https://nasaqcare.com)** — a multi-tenant clinic management SaaS for multi-branch clinics and medical centers.
+I build production mobile apps that stay reliable under real-world pressure: weak networks, low-end devices, and high traffic. Clean architecture, offline-first data, real-time experiences, and APIs that don't fall over.
 
-I build mobile products that stay reliable in the real world: weak connections, low-end devices, and busy clinic floors. Most of my work sits around clean architecture, offline-first data, real-time queues, and APIs that don't fall over.
+[LinkedIn](https://www.linkedin.com/in/ahmed-samir-92b24421b/) · [Email](mailto:ahmedsamir1090a@gmail.com) · [Nasaq Care](https://nasaqcare.com)
 
-## Nasaq Care
+---
 
-Clinic operations on one screen: appointments, a live reception-to-doctor queue, patient records, e-prescriptions, billing, and a public booking page. Arabic and English with full RTL, multi-branch isolation, and role-based access.
+## What I do
 
-- Product: [nasaqcare.com](https://nasaqcare.com)
-- Android: [Download the latest APK](https://github.com/ahmedsamir10090/nasaqcare-app/releases/latest)
-- Case study: [nasaq-care-showcase](https://github.com/ahmedsamir10090/nasaq-care-showcase)
+| Area | Focus |
+| --- | --- |
+| **Mobile architecture** | Clean Architecture, feature-first modules, BLoC/Riverpod, testable layers |
+| **Offline-first** | Local caching, sync strategies, graceful degradation on weak networks |
+| **Performance** | Profiling, 60/120 FPS optimization, cold-start reduction, memory leak diagnosis |
+| **Integrations** | Payments (Mada, Apple Pay, Stripe), maps, push notifications, deep links, native interop |
+| **Backend & delivery** | Laravel APIs, WebSockets, CI/CD, automated tests, release safety |
 
-## Selected work
+## Tech stack
 
-| Product | Role | What it is |
+| | |
+| --- | --- |
+| **Mobile** | Flutter · Dart · BLoC · Riverpod · Provider · Custom Widgets · Animations · Method Channels |
+| **Networking & cloud** | REST APIs · GraphQL · WebSockets · Firebase · Supabase · OAuth2 · JWT |
+| **DevOps & testing** | GitHub Actions · Codemagic · Fastlane · Docker · Unit · Widget · Integration tests |
+| **Data & performance** | Hive · SQLite · Dart DevTools · CPU/memory profiling · 60/120 FPS |
+| **Payments & security** | Mada · Apple Pay · Stripe · HyperPay · SSL Pinning · Secure Storage |
+
+## Featured projects
+
+### Nasaq Care — multi-tenant clinic management SaaS
+[![Nasaq Care](https://raw.githubusercontent.com/ahmedsamir10090/nasaq-care-showcase/main/assets/hero.png)](https://github.com/ahmedsamir10090/nasaq-care-showcase)
+
+Clinic operations on one screen: appointments, live reception-to-doctor queue, patient records, e-prescriptions, billing, and public online booking. Arabic/English RTL, multi-branch isolation, role-based access.
+
+`Flutter` `Dart` `BLoC` `Laravel` `WebSockets` `Firebase`
+
+[Case study](https://github.com/ahmedsamir10090/nasaq-care-showcase) · [Live product](https://nasaqcare.com)
+
+### Airgo-SD — multimodal travel booking platform
+[![Airgo-SD](https://raw.githubusercontent.com/ahmedsamir10090/airgo-sd-showcase/main/assets/hero.png)](https://github.com/ahmedsamir10090/airgo-sd-showcase)
+
+Flights, buses, and boats with real-time seat availability and instant ticketing.
+
+`Flutter` `Dart` `BLoC` `REST APIs` `Firebase`
+
+[Case study](https://github.com/ahmedsamir10090/airgo-sd-showcase) · [Live product](https://airgo-sd.net)
+
+### Slock Store — e-commerce platform
+[![Slock Store](https://raw.githubusercontent.com/ahmedsamir10090/slock-store-showcase/main/assets/hero.png)](https://github.com/ahmedsamir10090/slock-store-showcase)
+
+Smart-lock e-commerce with Mada and Apple Pay, a reusable design system, and push-notification flows.
+
+`Flutter` `Firebase` `Crashlytics` `Mada` `Apple Pay`
+
+[Case study](https://github.com/ahmedsamir10090/slock-store-showcase) · [Live product](https://slockstore.com)
+
+### Sudan Space — digital platform
+[![Sudan Space](https://raw.githubusercontent.com/ahmedsamir10090/sudan-space-showcase/main/assets/hero.png)](https://github.com/ahmedsamir10090/sudan-space-showcase)
+
+Web and mobile app suite with complex state management, multilingual support, and enterprise authentication.
+
+`Flutter` `Dart` `Riverpod` `GraphQL` `OAuth2`
+
+[Case study](https://github.com/ahmedsamir10090/sudan-space-showcase) · [Live product](https://sudanspace.com)
+
+## Experience
+
+| Role | Company | Focus |
 | --- | --- | --- |
-| **Nasaq Care** | Founder & Lead Engineer | Multi-tenant clinic management SaaS — [case study](https://github.com/ahmedsamir10090/nasaq-care-showcase) |
-| **Airgo-SD** | Senior Flutter Developer | [Multimodal travel booking platform](https://airgo-sd.net) (flights, buses, boats) |
-| **Slock Store** | Flutter Developer | [E-commerce app](https://slockstore.com) with regional payment gateways |
+| Founder & Lead Engineer | Nasaq Care | Multi-tenant clinic SaaS — Flutter + Laravel |
+| Senior Flutter Developer | Al Oula Saudi | Travel platform architecture, caching, releases |
+| Flutter Developer | Webb2 | Education app, payments, performance |
+| Flutter Developer | Slock Store | E-commerce, payments, design system |
+| Flutter Developer | Alafnan IT | Multi-tenant apps, maps, cold-start optimization |
+| Flutter Developer | Supplinker | B2B invoicing, offline caching, BLoC |
+| Flutter Developer | Freelancer | Cross-platform apps for international clients |
 
-## Toolbox
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-`Flutter` · `Dart` · `BLoC` · `Clean Architecture` · `offline-first` · `Laravel` · `MySQL` · `Redis` · `WebSockets`
-
-## Contact
+## Let's connect
 
 - LinkedIn: [ahmed-samir-92b24421b](https://www.linkedin.com/in/ahmed-samir-92b24421b/)
 - Email: [ahmedsamir1090a@gmail.com](mailto:ahmedsamir1090a@gmail.com)
