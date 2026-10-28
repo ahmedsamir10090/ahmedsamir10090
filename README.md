@@ -32,6 +32,15 @@ I build production mobile apps that stay reliable under real-world pressure: wea
 
 ## Featured projects
 
+### NDM — Nasaq Download Manager
+[![NDM](https://raw.githubusercontent.com/ahmedsamir10090/ndm/main/assets/screenshots/main_window.png)](https://github.com/ahmedsamir10090/ndm)
+
+Windows download manager built with Python/PyQt6: browser handoff, HTTP/FTP/torrent engines, resumable media and full-season downloads, real thumbnails, safe cancellation, and Arabic/English UI.
+
+`Python` `PyQt6` `yt-dlp` `libtorrent` `Chrome/Edge/Brave` `SQLite`
+
+[Release v1.3.1](https://github.com/ahmedsamir10090/ndm/releases/tag/v1.3.1) · [Website](https://ahmedsamir10090.github.io/ndm/)
+
 ### Nasaq Care — multi-tenant clinic management SaaS
 [![Nasaq Care](https://raw.githubusercontent.com/ahmedsamir10090/nasaq-care-showcase/main/assets/hero.png)](https://github.com/ahmedsamir10090/nasaq-care-showcase)
 
